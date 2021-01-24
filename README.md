@@ -19,10 +19,8 @@ This repository includes Vehicle CAD models for electromagnetic simulations. To 
 <img src="./img/fiat500_field.png" width="350">
 </p>
 
-*We are working on the CAD to make them more homogeneous. They will be uploaded here as soon as possible.* If your really need a CAD right now, please contact the authors by email (click on the names to get the email address).
-* [Fabio Freschi](mailto:fabio.freschi@polito.it)
-* [Luca Giaccone](mailto:luca.giaccone@polito.it)
-
+*We are working on the CAD to make them more homogeneous. They will be uploaded here as soon as possible.* If your really need a CAD right now, please contact the authors by email with this link:
+* [contact the authors](mailto:fabio.freschi@polito.it,luca.giaccone@polito.it)
 
 ## 1. Fiat 500
 
