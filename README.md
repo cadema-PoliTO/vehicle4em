@@ -77,7 +77,7 @@ obj = mesh.cell_data['obj'][0]
 
 ## 4. How to cite
 
-I you use these models, please consider citing:
+If you use these models, please consider citing:
 
 * this repository
 * the following paper:
