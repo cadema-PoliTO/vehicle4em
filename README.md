@@ -51,7 +51,7 @@ This repository contains CAD models of vehicles and volumetric meshes (composed 
 * [contact the authors](mailto:fabio.freschi@polito.it,luca.giaccone@polito.it)
 
 
-### 3.2 Unstructured mesh filed (vtu format)
+### 3.2 Unstructured meshes (vtu file format)
 
 You can access a shared folder using [this link](https://drive.google.com/drive/folders/1erye-jtA3xx1Um7UCCMqewos2cXu--xH?usp=sharing), which contains four `.vtu` files representing the unstructured mesh of the corresponding vehicles. The `.vtu` format is an XML-based representation of unstructured grid datasets used by the [Visualization Toolkit (VTK)](https://vtk.org/). As part of the VTK XML family, it provides a structured, extensible, and portable means of encoding scientific data.
 
