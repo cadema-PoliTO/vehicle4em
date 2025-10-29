@@ -48,7 +48,9 @@ This repository contains CAD models of vehicles and volumetric meshes (composed 
 
 ### 3.1 CAD Models
 
-*We are working on the CAD to make them more homogeneous. They will be uploaded here as soon as possible.* If your really need a CAD right now, please contact the authors by email with this link:
+We provide the CAD models as `STEP` files, a standardized format used for exchanging 3D models between different CAD software. The files can be accessed via [this link](https://drive.google.com/drive/folders/1erye-jtA3xx1Um7UCCMqewos2cXu--xH?usp=sharing).
+
+If any issues arise when using the CAD models, please do not hesitate to contact the authors by email using this link:
 * [contact the authors](mailto:fabio.freschi@polito.it,luca.giaccone@polito.it)
 
 
